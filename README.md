@@ -11,3 +11,5 @@ preview:
 
 Tenho planos de melhorar o código, adicionando novas funções, usando tratamento de excessões, permitindo que o usuário digite o que deseja calcular ao invés de clicar em botões
 além fazer melhorias no css.
+
+link: https://danilovieiracosta1729.github.io/Calculadora/ 
