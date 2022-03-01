@@ -1,4 +1,7 @@
 # Calculadora
+
+link: https://danilovieiracosta1729.github.io/Calculadora/ 
+
 Nesta versão, a calculadora só é capaz de realizar soma, multiplicação, divisão e subtração. Também é possível calcular a n-ésima potência de um número, mas isso é um glitch
 e não uma função implementada de forma propósital.
 
@@ -11,5 +14,3 @@ preview:
 
 Tenho planos de melhorar o código, adicionando novas funções, usando tratamento de excessões, permitindo que o usuário digite o que deseja calcular ao invés de clicar em botões
 além fazer melhorias no css.
-
-link: https://danilovieiracosta1729.github.io/Calculadora/ 
